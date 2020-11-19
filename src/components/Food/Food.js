@@ -58,6 +58,7 @@ export default class Food extends Component {
                                     <p>名字:{item.name}</p>
                                     <p>价格:{ filterPrice(item.price)}</p>
                                     {/* <p>时间:{ filterTime(item.time)}</p> */}
+                                    aaaaaa
                                 </Link>
                             )
                         })
